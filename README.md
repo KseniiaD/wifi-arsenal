@@ -56,6 +56,7 @@ TOC created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 * [pyrit](https://github.com/JPaulMora/Pyrit/) - The famous WPA precomputed cracker, Migrated from Google
 * [Scapy](https://github.com/secdev/scapy) - Python-based interactive packet manipulation program & library
 * [waidps](https://github.com/SYWorks/waidps/) - Wireless Auditing, Intrusion Detection & Prevention System
+* [Wifipumpkin3](https://github.com/P0cL4bs/wifipumpkin3) - Powerful framework for rogue access point attack.
 * [WiFi-Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin/) - Framework for Rogue Wi-Fi Access Point Attack
 * [Wireless-ids](https://github.com/SYWorks/wireless-ids/) - Ability to detect suspicious activity such as (WEP/WPA/WPS) attack by sniffing the air for wireless packets
 * [zarp](https://github.com/hatRiot/zarp/) - Network attack tool centered around the exploitation of local networks
@@ -65,6 +66,7 @@ TOC created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 * [airodump_mod](https://github.com/maroviher/airodump_mod/) - Improved version of airodump-ng with ability to kick-off a stations from AP
 * [android_packetspammer](https://github.com/bcopeland/android_packetspammer/) - Packetspammer sends unencrypted broadcast packets down a mac80211 wireless interface that should be set for Monitor mode
 * [apflood](https://github.com/d4rkcat/apflood/) - Flood area with fake essids
+* [Curfew](https://github.com/RavSS/Curfew) - 802.11w-2009 Auditor And Deauthentication Frame Spammer. 
 * [dw](https://github.com/ndyakov/dw/) - Small tool for sending 802.11 disassociation and deauthentication packets to specific clients. 
 * [hwk](https://github.com/0x90/wifi-arsenal/tree/master/hwk/) - Hwk is a collection of packet crafting/network flooding tools
 * [JamWiFi](https://github.com/unixpickle/JamWiFi/) - A GUI, easy to use WiFi network jammer for Mac OS X
@@ -76,6 +78,7 @@ TOC created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 * [netattack](https://github.com/chrizator/netattack/) - Python script that allows you to scan your local area for WiFi Networks and perform deauthentification attacks
 * [Scapy-deauth](https://github.com/catalyst256/MyJunk/blob/master/scapy-deauth.py/) - Scapy based wifi Deauth
 * [ska](https://github.com/0x90/wifi-arsenal/tree/master/ska/) - Framework for sniffing ieee80211 packets and generating deauth packets and sending raw packets.
+* [widowmaker](https://github.com/violentshell/widowmaker) - Widowmaker is an 802.11 DOS tool that exploits the Beacon time interval to outpace wireless access points. This (in theory) allows an attacker to deny service to a wireless access point by providing fake mac addresses to clients that are looking to authenticate with the legitimate access point
 * [wificurse](https://github.com/0x90/wifi-arsenal/tree/master/wificurse/) - WiFi DoS attack tool created for educational purposes only. It works only in Linux and requires wireless card drivers capable of injecting packets in wireless networks
 * [WifiDeauth](https://github.com/Revimal/WifiDeauth/) - A lightweight Wi-Fi auto deauthentication attack tool (libtins/C++)
 * [wifijammer](https://github.com/DanMcInerney/wifijammer/) - Continuously jam all wifi clients/routers
@@ -90,18 +93,24 @@ TOC created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 * [Eicrog](https://github.com/nosmo/Eircog/) - WEP key generator for predictable key weaknesses
 * [huawei_wifi](https://github.com/davux/huawei_wifi/) - Wifi utilities for finding Huawei routers' default key
 * [Aircrack-ng](https://github.com/aircrack-ng/aircrack-ng/) - WiFi security auditing tools suite
+* [AircrackPy](https://github.com/4nth0nySLT/AircrackPy) - Un simple modulo de automatización de crackeo de WPAKEY en Windows, además utiliza Google forms. 
 * [airmode](https://github.com/parrotsec/airmode/) - AirMode is a GUI that can help you to use the Aircrack framework
 * [airoscriptng](https://github.com/wi-fi-analyzer/airoscriptng/) - Airoscript-ng python complete implementation
 * [Airvengers](https://github.com/hiteshchoudhary/Airvengers/) - A GUI to pentest wifi Network, based on Aircrack-ng tools
 * [asleap](https://github.com/0x90/wifi-arsenal/tree/master/asleap/) - Recovers weak LEAP password.  Pronounced asleep.
 * [autokwaker](https://github.com/pasdesignal/autokwaker/) - Creating an auto cracker for 802.11 networks
+* [CapBreaker](https://github.com/ghsi10/capbreaker) - Management tool for WPA hash cracking with a distributable software including WebUI.
 * [cenarius](https://github.com/adelashraf/cenarius/) - Cenarius tool for crack Wi-Fi , crack wpa-psk , crack wpa2-psk , crack wep , crack wps pin and crack hidden AP . cenarius psk crack
 * [cherry](https://github.com/axilirator/cherry/) - Distributed WPA/WPA2 cracker
 * [Cowpatty](http://www.willhackforsushi.com/?page_id=50/) - Offline dictionary attack against WPA/WPA2 networks using PSK-based authentication (e.g. WPA-Personal)
+* [deauth_dot11decrypt](https://github.com/WeareJoker/deauth_dot11decrypt) - It sends deauth packet to all stations for getting keys in 4-way handshakes from stations already connected to an AP. When it detected 4-way handshakes between a station and an AP, it stops sending deauth packet to that station. 
 * [dot11decrypt](https://github.com/mfontanini/dot11decrypt/) - An 802.11 WEP/WPA2 on-the-fly decrypter. 
+* [Easy-HCX](https://github.com/t3chnocat/easy-hcx) - Bash script using hcxdumptool, hcxtools and hashcat to collect WPA2 handshakes and/or PMKIDs, convert them to hashcat format and perform dictionary attacks to crack their passwords. 
 * [Fern-wifi-cracker](https://github.com/savio-code/fern-wifi-cracker/) - Crack and recover WEP/WPA/WPS keys and also run other network based attacks on wireless or ethernet based networks
 * [HandShaker](https://github.com/d4rkcat/HandShaker/) - Detect, capture, crack WPA/2 handshakes, WEP Keys and geotag with Android GPS
 * [hcxtools](https://github.com/ZerBea/hcxtools/) - Solution for capturing wlan traffic and conversion to hashcat formats (recommended by hashcat) and to John the Ripper
+* [Invasit-network](https://github.com/valvesss/invasit-network) - Automatizated bash script to invade WPA2 networks with wordlist method 
+* [KeyGrab](https://github.com/ryansisco/KeyGrab) - Grabs and saves handshakes from WPA/WPA2 encrypted networks. Written for Kali Linux 
 * [kismet-deauth-wpa2-handshake-plugin](https://github.com/ph4r05/kismet-deauth-wpa2-handshake-plugin/) - Python plugin for Kismet to perform deauthentication to collect WPA2 handshakes
 * [krackattack-all-zero-tk-key](https://github.com/lucascouto/krackattack-all-zero-tk-key) - works with clients that install the all-zero TK in a KraCK attack!
 * [KrackAttack](https://github.com/Guppster/KrackAttack) - An application that exposes and aims to raise awareness about Wi-Fi key reinstallation attacks
@@ -119,6 +128,7 @@ TOC created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 * [peapwn](https://github.com/rpp0/peapwn/) - Proof-of-concept implementation of the Apple relay attack in Python 
 * [PINEAPPLE](https://github.com/charlieporth1/PINEAPPLE) - Wifi Pineapple scripts
 * [piwifipineapple](https://github.com/f1rsty/piwifipineapple.git) - script to automate the entire process on setting the raspberry pi up as a malicious hot spot for educational purposes
+* [Pmkid-extractor](https://github.com/davidetestoni/pmkid-extractor) - Extract PMKIDs from a wifi capture to a hashcat-compatible format 
 * [pyDot11](https://github.com/ICSec/pyDot11) - Encrypt and Decrypt 802.11 on-the-fly
 * [pyrcrack](https://github.com/XayOn/pyrcrack/) - Python Aircrack-ng
 * [pyrit](https://github.com/JPaulMora/Pyrit/) - The famous WPA precomputed cracker, Migrated from Google
@@ -128,27 +138,33 @@ TOC created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 * [WiFi-autopwner](https://github.com/Mi-Al/WiFi-autopwner/) - Script to automate searching and auditing Wi-Fi networks with weak security
 * [WiFiBroot](https://github.com/hash3liZer/WiFiBroot) - A WiFi Pentest Cracking tool for WPA/WPA2 (Handshake, PMKID, Cracking, EAPOL, Deauthentication)
 * [Wifi-bruteforcer-fsecurify](https://github.com/faizann24/wifi-bruteforcer-fsecurify/) - Android application to brute force WiFi passwords without requiring a rooted device
+* [Wifi-cracker](https://github.com/BadAppsDevelopment/Wifi-Cracker) - Wifi Cracker is a great tool to use if you have forgotten your wifi password and need to figure it out. This application works well with WEP, WPA, WPA-PSK security types. 
 * [wificracking](https://github.com/brannondorsey/wifi-cracking/) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
 * [Wifi-hacker](https://github.com/esc0rtd3w/wifi-hacker/) - Shell Script For Attacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2) 
 * [wifite2](https://github.com/derv82/wifite2/) - Python script for auditing wireless networks
 * [wifite](https://github.com/derv82/wifite/) - An automated wireless attack tool
 * [Wifite-mod-pixiewps](https://github.com/aanarchyy/wifite-mod-pixiewps/) - Wifite with PixieWPS support
 * [Wifite-openwrt](https://github.com/kbeflo/wifite-openwrt/) - Wifite for the WiFi Pineapple NANO + TETRA (Chaos Calmer - openWrt) 
+* [Wireless_peeker](https://github.com/FXShu/Wireless_peeker) - Tool to crack wireless encryption (WPA / WPA2) base on C99 
 * [wlandecrypter](https://github.com/wi-fi-analyzer/wlandecrypter/) - Dictionary attack (spanish)
+* [wpa2-enterprise-attack](https://github.com/ricardojoserf/wpa2-enterprise-attack) - Through these scripts it is possible to create Rogue or Fake Access Points and carry out an authentication downgrade attack against WPA and WPA2-Enterprise networks, obtaining passwords in hash format or cleartext (if GTC downgrade is successful).
 * [WPA2-HalfHandshake-Crack](https://github.com/dxa4481/WPA2-HalfHandshake-Crack/) - Capture enough of a handshake with a user from a fake AP to crack a WPA2 network without knowing the passphrase of the actual AP
 * [wpa2hc](https://github.com/historypeats/wpa2hc/) - Quick script to automate converting WPA .cap files for Hashcat .hccap files. 
 * [WPA2-KRACK](https://github.com/jiansiting/WPA2-KRACK) - WPA2 KRACK
+* [wpa2own](https://github.com/philcryer/wpa2own) - Use hashcat to crack WPA2 PSK (Pre-Shared Key) passwords! 
 * [Wpa-autopwn](https://github.com/vnik5287/wpa-autopwn/) - WPA/WPA2 autopwn script that parses captured handshakes and sends them to the Crackq
 * [Wpa-bruteforcer](https://github.com/SYWorks/wpa-bruteforcer/) - Attacking WPA/WPA encrypted access point without client. 
 * [wpacrack](https://github.com/derv82/wpacrack/) - Open-source distributed Wifi-Protected Access (WPA) cracker
 * [WPA_DECRYPTION_MPI](https://github.com/shagrath89m/WPA_DECRYPTION_MPI/) - WPA/WPA2 for cluster processing
 * [WPAdiz](https://github.com/leminski/WPAdiz/) - Bruteforce - New method for generate dictionaries (Wireless)
+* [wpakey](https://github.com/rofl0r/wpakey) - monitor mode WPA1/WPA2 online password bruteforcer
 #### WPS
 * [autoreaver](https://github.com/0x90/auto-reaver/) - Automatically exported from code.google.com/p/auto-reaver
 * [bully](https://github.com/aanarchyy/bully/) - New implementation of the WPS brute force attack, written in C
 * [greaver](https://github.com/sigginet/greaver/) - GUI for Reaver, WPS brute force tool
 * [HT-WPS-Breaker](https://github.com/SilentGhostX/HT-WPS-Breaker/) - HT-WPS Breaker (High Touch WPS Breaker)
 * [Krack-wps](https://github.com/Programmuser/Krack-wps) - attack networks with wps to corrupt their security using dictionary type pixywpa v3.0
+* [OneShot](https://github.com/drygdryg/OneShot) - Run WPS PIN attacks (Pixie Dust, online bruteforce, PIN prediction) without monitor mode with the wpa_supplicant 
 * [Penetrators-wps](https://github.com/dadas190/penetrator-wps/) - Experimental tool that is capable of attacking multiple WPS-enabled wireless access points in real time.
 * [phpreaver](https://github.com/phpreaver/phpreaver/) - A command line PHP script which uses the reaver WPS pin cracker to test multiple AP's with multiple WiFi adapters.
 * [Pixiewps-android](https://github.com/ru-faraon/pixiewps-android/) - Pixiewps is a tool written in C used to bruteforce offline the WPS pin exploiting the low or non-existing entropy of some APs (pixie dust attack).
@@ -173,8 +189,10 @@ TOC created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 * [eapmd5pass](http://www.willhackforsushi.com/?page_id=67) - An implementation of an offline dictionary attack against the EAP-MD5 protocol. This utility can be used to audit passwords used for EAP-MD5 networks from wireless packet captures, or by manually specifying the challenge, response and associated authentication information.
 * [haircrack](https://github.com/AdamKnube/haircrack/) - Automated aircrack/reaver/pyrit (An interface for aircrack/reaver/pyrit written in python. The interface itself may never get finished.)
 * [IKECrack](http://ikecrack.sourceforge.net/) - IKE/IPSec authentication crack tool. This tool is designed to bruteforce or dictionary attack the key/password used with Pre-Shared-Key [PSK] IKE authentication.
+* [Krackattacks-test-ap-ft](https://github.com/d30sa1/krackattacks-test-ap-ft) - This script tests if APs are affected by CVE-2017-13082 (KRACK attack)
 * [PCAP-CRACKER](https://github.com/BroadbentT/PCAP-CRACKER) - A python script file to decrypt encrypted IEE (802.11) Radio .pcap files captured via Wireshark for extraction and analyse
 * [wavecrack](https://github.com/wavestone-cdt/wavecrack) - Wavestone's web interface for password cracking with hashcat
+* [WifiBF](https://github.com/Squuv/WifiBF) - This is a wifi Brute Force. script undetectable and secure! 
 * [wifite2-docker](https://github.com/random-robbie/wifite2-docker) - Docker of Wifite2
 * [wifite2mod](https://github.com/nuncan/wifite2mod) - This repo is a complete re-write of wifite, a Python script for auditing wireless networks
 * [wifite2-RPi3-nexmon](https://github.com/awesome-pentest-gadgets/WiFite2-RPi3-nexmon) - Wifite2 for Raspberry Pi 3
@@ -204,12 +222,15 @@ TOC created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 * [cupid](https://github.com/lgrangeia/cupid/) - Patch for hostapd and wpa_supplicant to attempt to exploit heartbleed on EAP-PEAP/TLS/TTLS connections
 * [eaphammer](https://github.com/s0lst1c3/eaphammer) - Targeted evil twin attacks against WPA2-Enterprise networks. Indirect wireless pivots using hostile portal attacks. 
 * [FakeAP](https://github.com/DanMcInerney/fakeAP/) - Create fake AP in Kali with 1 command 
+* [FakeAP](https://github.com/vtr0n/FakeAP) - Fake access point using dns spoof and ssl stripping 
 * [fakeaps](https://github.com/0x90/wifi-arsenal/blob/master/fakeaps.c/) - Fake Access Points using Atheros wireless cards in Linux
 * [fluxion](https://github.com/FluxionNetwork/fluxion/) - Fluxion is the future of MITM WPA attacks
 * [FuzzAP](https://github.com/lostincynicism/FuzzAP/) - A python script for obfuscating wireless networks
 * [Hostapd-karma](https://github.com/xtr4nge/hostapd-karma/) - DigiNinja patches to hostapd for rogue access points. 
+* [hostapd-mana](https://github.com/sensepost/hostapd-mana/) - A featureful rogue access point first presented at Defcon 22 by Dominic White (@singe) & Ian de Villiers @ sensepost (research@sensepost.com)
 * [Hostapd-wpe-extended](https://github.com/NerdyProjects/hostapd-wpe-extended/) - Modification and tools for using hostapd for rogue AP attacks impersonating WPA-Enterprise networks to steal user credentials
 * [Hostapd-wpe](https://github.com/OpenSecurityResearch/hostapd-wpe/) - Modified hostapd to facilitate AP impersonation attacks 
+* [jfap](https://github.com/jduck/jfap) - A simple 802.11 fake access point that supports open auth 
 * [karma](https://github.com/atimorin/karma/) - KARMA Attacks Radioed Machines Automatically (KARMA)
 * [mana](https://github.com/sensepost/mana/) - Our mana toolkit for wifi rogue AP attacks and MitM 
 * [mitmAP](https://github.com/xdavidhu/mitmAP/) - A python program to create a fake AP and sniff data
@@ -218,6 +239,8 @@ TOC created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 * [openrtls](https://github.com/konker/openrtls/) - 
 * [Platform-hostapd](https://github.com/experimental-platform/platform-hostapd/) - Wireless access point for experimental-platform. 
 * [PwnSTAR](https://github.com/SilverFoxx/PwnSTAR/) - PwnSTAR (Pwn SofT-Ap scRipt) - for all your fake-AP needs
+* [pyfi](https://github.com/IsmaelRLG/pyfi) - Easy wireless access point fabricator 
+* [refluxion](https://github.com/chinarulezzz/refluxion) - Refluxion -- MITM WPA attacks tool 
 * [rogue_ap](https://github.com/andrew14824/rogue_ap/) - RogueAP_hostapd.py is a script designed to create a Rogue Access Point
 * [rogueap](https://github.com/wouter-glasswall/rogueap/) - Start a rogue access point with no effort, with support for hostapd, airbase, sslstrip, sslsplit, tcpdump builtin
 * [rogueDetect](https://github.com/olanb7/rogueDetect/) - 
@@ -229,7 +252,9 @@ TOC created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 * [snifflab](https://github.com/andrewhilts/snifflab/) - Scripts to create your own MITM'ing, packet sniffing WiFi access point 
 * [startools](https://github.com/sa7mon/startools/) - To use a RasPi to do an Evil Twin attack and capture 802.1x RADIUS creds
 * [wifi_honey](https://github.com/0x90/wifi-arsenal/tree/master/wifi_honey/) - Setting up four fake access points, each with a different type of encryption, None, WEP, WPA and WPA2 and the seeing which of the four the client connects to
+* [wifimitm](https://github.com/mvondracek/wifimitm) - Wi-Fi Machine-in-the-Middle: Automation of MitM Attack on Wi-Fi Networks 
 * [wifiphisher](https://github.com/wifiphisher/wifiphisher/) - Automated victim-customized phishing attacks against Wi-Fi clients
+* [Wifipumpkin3](https://github.com/P0cL4bs/wifipumpkin3) - Powerful framework for rogue access point attack.
 * [WiFi-Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin/) - Framework for Rogue Wi-Fi Access Point Attack
 * [wifisoftap](https://github.com/coolshou/wifisoftap/) - 
 * [Wifi_Trojans](https://github.com/ahhh/Wifi_Trojans/) - Collection of wireless based bind and reverse connect shells for penetration testers
@@ -246,6 +271,7 @@ TOC created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 * [dot11sniffer](https://github.com/DepthDeluxe/dot11sniffer/) - Sniffs 802.11 traffic and counts the number of active wireless devices in an area
 * [eap_detect](https://github.com/rafikMeg/eap_detect/) - A simple script using the python library Scapy to detect the 802.1X authentication mechanism
 * [easy-bettercap](https://github.com/bootes-void/easy-bettercap) - simple way to use bettercap
+* [geoprobe](https://github.com/Nirei/geoprobe) - geoprobe is a tool to sniff, collect and geolocate 802.11 ProbeRequests using WiGLE API. 
 * [handshakeharvest](https://github.com/0x90/wifi-arsenal/blob/master/handshakeharvest-K1-K2-K2016-4-0.sh/) - 
 * [liber80211](https://github.com/brycethomas/liber80211/) - 802.11 monitor mode for Android without root
 * [libpcap-80211-c](https://github.com/weaknetlabs/libpcap-80211-c/) - Sniffs on a RFMON-enabled device for a beacon when compiled, linked and loaded
@@ -259,8 +285,11 @@ TOC created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 * [ninjaberry](https://github.com/mrusme/ninjaberry) - Ninjaberry: Raspberry Pi UI for @bettercap
 * [oculus](https://github.com/abnarain/oculus/) - Lightweight tool to collect traces from wifi
 * [ofxSniffer](https://github.com/HalfdanJ/ofxSniffer/) - Wrapper for the libtins library. Libtins can be used to sniff network packages, or to generate network pacakages yourself.
+* [Peanuts](https://github.com/NoobieDog/Peanuts) - Peanuts is a free and open source wifi tracking tool. Based on the SensePosts Snoopy-NG project that is now closed. 
+* [Phalloc-sniffer](https://github.com/phalloc/phalloc-sniffer) - With the ever increasing dependance on wireless solutions, it sometimes is useful to know the devices around you. This software aims to help know the MAC addresses of the devices that are leaving any sort of trace on the airwaves.
 * [phystats](https://github.com/ransford/phystats/) - Gather & plot ieee80211 counters from Linux debugfs
 * [probecap](https://github.com/hydrogen18/probecap/) - A quick and dirty utility to capture and store WiFi probes.
+* [probehunter](https://github.com/mgp25/Probe-Hunter) - Probe Request sniffer + Wigle 
 * [probemon](https://github.com/jjb3tee3/probemon/) - Monitors 802.11 probe packets sent from roaming mobile devices. Developed using PyLorcon2. 
 * [proberequest](https://github.com/SkypLabs/probequest) - Toolkit for Playing with Wi-Fi Probe Requests https://probequest.readthedocs.io/en/…
 * [probesniffer](https://github.com/xdavidhu/probeSniffer/) - A tool for sniffing unencrypted wireless probe requests from devices
@@ -270,6 +299,7 @@ TOC created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 * [SSIDentity](https://github.com/SamClarke2012/SSIDentity/) - Passive sniffing of 802.11 probe requests, stored in a central database.
 * [TCP-SeqNum](https://github.com/bwoolf1122/TCP-SeqNum/) - Means to sniff 802.11 traffic and obtain TCP session info using netfiter_queue. Use that data to construct a packet in scappy. 
 * [wallofshame](https://github.com/0x0d/wallofshame/) - Multi protocol sniffer, created for ChaosConstruction conference HackSpace
+* [Wall-of-Shame](https://github.com/teambi0s/Wall-of-Shame) - A framework for capturing user credentials and sensitive device information. 
 * [Watcher](https://github.com/catalyst256/Watcher/) - Canari framework based Maltego transform pack that allows you to perform wireless sniffing within Maltego
 * [WiFi-802.11-Demo-Sniffer](https://github.com/dcrisan/WiFi-802.11-Demo-Sniffer/) - This 802.11 sniffer written in Python provides a useful tool to raise awareness at the amount of data phones release for anyone to read. 
 * [Wifi-harvester](https://github.com/SYWorks/wifi-harvester/) - For collecting probed SSID name by wireless devices, Access point detail and connected clients.
@@ -280,7 +310,9 @@ TOC created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 * [Wireless-info](https://github.com/wlanslovenija/wireless-info/) - Obtain information about wireless interfaces from MAC80211 stack
 * [Wireless-radar](https://github.com/stef/wireless-radar/) - DF and other tools to explore a 2.4GHz environment
 * [Wireless-Sniffer](https://github.com/gauravpatwardhan/Wireless-Sniffer/) - A 802.11 wireless sniffer tool (c-based)
+* [wpasnff](https://github.com/dredge17/wpasnff) - This script allows you to decrypt and sniff packets for a specific WPA2 network based on BSSID you passed in input.
 ### Wardriving
+* [Auto-Besside-Capturer](https://github.com/sethleedy/Auto-Besside-Capturer) - Capture WPA handshakes, using besside-ng. Auto upload to http://wpa-sec.stanev.org for cracking the password. 
 * [MappingWirelessNetworks](https://github.com/jeffThompson/MappingWirelessNetworks/) - Code, data, and (possibly) schematics for recording wireless network data around a city
 * [WAPMap](https://github.com/pan0pt1c0n/WAPMap/) - Parse Kismet .netxml output and then return a CSV file that can be uploaded to Google Maps Engine to map WEP or OPEN networks
 * [warcarrier](https://github.com/0x90/warcarrier/) - An NCURSES-based, all-in-one instrument panel for professional Wardriving
@@ -292,7 +324,9 @@ TOC created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 * [AirPirate](https://github.com/gat3way/AirPirate/) - Android 802.11 pentesting tool 
 * [airspf](https://github.com/davll/airspf/) - AirSpoof/Airpwn ??
 * [airxploit](https://github.com/balle/airxploit/) - Wireless discovery and exploitation framework written in Python
+* [anubis](https://github.com/sundaysec/anubis) - Captive wifi hotspot bypass tool for Linux 
 * [AtEar](https://github.com/NORMA-Inc/AtEar/) - Wireless Hacking, WiFi Security, Vulnerability Analyzer, Pentestration
+* [beaconLeak](https://github.com/cjcase/beaconleak) - beaconLeak is an open source tool developed as a proof of concept of the beacon stuffing method as a covert channel. This channel allows command and control or data exfiltration using the wireless network card without association or authentication.
 * [BoopSuite](https://github.com/MisterBianco/BoopSuite/) - A Suite of Tools written in Python for wireless auditing and security testing.
 * [chap2aleap](https://github.com/xiao106347/chap2asleap/) - Work with asleap+genk
 * [CloudCrackInstaller](https://github.com/tjetzinger/CloudCrackInstaller/) - Script which installs Crunch, Pyrit and Cowpatty on a running Amazon EC2 Cluster GPU Instance to crack WPA and WPA2 keys.
@@ -300,15 +334,22 @@ TOC created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 * [eapeak](https://github.com/securestate/eapeak/) - Analysis Suite For EAP Enabled Wireless Networks
 * [Easy-creds](https://github.com/brav0hax/easy-creds/) - Leverages tools for stealing credentials during a pen test
 * [evilportals](https://github.com/kbeflo/evilportals) - Evil Portals for the WiFi Pineapple
+* [FakeAuth](https://github.com/scriptedp0ison/FakeAuth) - FakeAuthentication Network Attack framework written in python3, and made with poison
 * [FruityWiFi](https://github.com/xtr4nge/FruityWifi/) - Wireless network auditing tool
+* [hashcatch](https://github.com/staz0t/hashcatch) - Capture handshakes of nearby WiFi networks automatically 
 * [Hijacker](https://github.com/chrisk44/Hijacker/) - Aircrack, Airodump, Aireplay, MDK3 and Reaver GUI Application for Android
 * [killosx](https://github.com/d4rkcat/killosx/) - Use the Apple CoreText exploit (CVE-2012-3716) and launch an AP to affect all devices within wifi range 
 * [KisMac2](https://github.com/IGRSoft/KisMac2/) - Free, open source wireless stumbling and security tool for Mac OS X
 * [LANs.py](https://github.com/DanMcInerney/LANs.py/) - Inject code, jam wifi, and spy on wifi users
+* [ManaToolkit](https://github.com/adde88/ManaToolkit) - Mana Toolkit - Module for the WiFi Pineapples. 
+* [Noon](https://github.com/cristi092/Noon) - Noon - The Swiss knife of wireless auditing. 
 * [Null-packet-wifi-promt](https://bitbucket.org/edkeeble/null-packet-wifi-prompt/) - Simple script to prompt responses from wireless devices with a known MAC address
+* [pinecone](https://github.com/pinecone-wifi/pinecone) - Pinecone is a WLAN networks auditing tool, suitable for red team usage. It is extensible via modules, and it is designed to be run in Debian-based operating systems. Pinecone is specially oriented to be used with a Raspberry Pi, as a portable wireless auditing box.
 * [PiWAT](https://github.com/Crypt0s/PiWAT/) - Wireless Attack Toolkit
+* [probequest](https://github.com/SkypLabs/probequest) - Toolkit for Playing with Wi-Fi Probe Requests 
 * [Pwnagotchi](https://pwnagotchi.ai/) - Pwnagotchi is an A2C-based “AI” powered by bettercap and running on a Raspberry Pi Zero W that learns from its surrounding WiFi environment in order to maximize the crackable WPA key material it captures (either through passive sniffing or by performing deauthentication and association attacks)
 * [Python-wireless-attacks](https://github.com/jordan-wright/python-wireless-attacks/) - Wireless Attacks in Python (Based on blog series)
+* [scapy-dot11-toolkit](https://github.com/zachMelody/scapy-dot11-toolkit) - receive and send 802.11 management frames through python-scapy 
 * [Secpi](https://github.com/nrohsak/Secpi/) - Python based script for wifi pentesting on the RasPi
 * [Sly-fi](https://github.com/sinistermachine/sly-fi/) - Wifi pwnage automation
 * [smoothie](https://github.com/XayOn/smoothie/) - Web based wireless auditory tools
@@ -316,11 +357,17 @@ TOC created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 * [Wi-door](https://github.com/Vivek-Ramachandran/wi-door/) - Wi-Fi Backdoors
 * [WIDSTT](https://github.com/0x90/wifi-arsenal/blob/master/Wireless%20IDS%20Tool.py/) - Wireless Intrusion Detection Systems Testing Tool – test your WIDS by performing attacks
 * [WifiAttack](https://github.com/AbbySec/WifiAttack/) - 
+* [wifibang](https://github.com/Leviathan36/wifibang) - wifibang is a set of security tools which perform the main kinds of wifi attacks. Its most important feature is the user-friendly CLI which encourages users to use the script on mobile devices (like a smartphone, maybe associated with a raspberry).
+* [wifiBuddy](https://github.com/s0m3-1/wifiBuddy) - So the plan is to connect a RaspberryPi, a little Display (maybe even touch) and 2 wifi antennas – one for sniffing onw for attacking
 * [wifi-default-password](https://bitbucket.org/jpgerek/wifi-default-password/) - Bash script that tries all the default passwords for a particular wifi access point
+* [WiFiHunter](https://github.com/MA24th/WiFiHunter) - A WiFi Penetration Toolkit 
 * [wifimonster](https://github.com/flankerhqd/wifimonster/) - Wifi sniffing and hijacking tool
+* [Wifi-pentesting-guide](https://github.com/ricardojoserf/wifi-pentesting-guide) - WiFi Penetration Testing Guide 
 * [wifuzz](https://github.com/0x90/wifuzz/) - Access Point 802.11 stack fuzzer
 * [wifuzzit](https://github.com/0xd012/wifuzzit/) - A 802.11 wireless fuzzer
+* [WirelessMayhem](https://github.com/c0mix/WirelessMayhem) - Wireless Mayhem is a python framework developed to automate wireless discovery and exploitation. 
 * [wirespy](https://github.com/AresS31/wirespy) - Framework designed to automate various wireless networks attacks (the project was presented on Pentester Academy TV's toolbox in 2017)
+* [wombat](https://github.com/Perdu/wombat) - An experimental Wi-Fi tracking system aiming at improving user awereness toward physical tracking technologies and at experimenting new privacy-preserving mechanisms.
 * [wtf](https://github.com/cozybit/wtf/) - Wireless Test Framework. Collection of test suites for validating various wifi functionality on various wifi devices.
 * [zarp](https://github.com/hatRiot/zarp/) - Network attack tool centered around the exploitation of local networks
 ## Information Gathering
@@ -341,6 +388,8 @@ TOC created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 ## Defense/Detection
 * [badkarma](https://github.com/atechdad/badkarma/) - BadKarma is a simple python script used to detect and disrupt rouge access points/honeypots using the karma attack such as the wifi pineapple
 * [eaphammer](https://github.com/s0lst1c3/eaphammer) - Targeted evil twin attacks against WPA2-Enterprise networks. Indirect wireless pivots using hostile portal attacks
+* [eewids](https://github.com/techge/eewids) - Easily Expandable Wireless Intrusion Detection System 
+* [etd](https://github.com/stavinski/etd) - The Evil Twin Detector monitors for devices that are trying to spoof your existing wireless access points, if any are found a notification is sent by email and/or syslog over UDP.
 * [EvilAP_Defender](https://github.com/moha99sa/EvilAP_Defender/) - Protect your Wireless Network from Evil Access Points
 * [foxHunter](https://github.com/ICSec/foxHunter) - Open-source Wireless Intrusion Detection System (WIDS) 
 * [huntpineapples](https://github.com/0x90/wifi-arsenal/tree/master/huntpineapples/) - WiFi Pineapple hunter from DC23
@@ -350,6 +399,7 @@ TOC created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 * [KRACKDetection](https://github.com/IronMage/KRACKDetection) - Used to detect if the current version of wpa_supplicant is vulnerable to the KRACK attack. Developed using Debian 9.2
 * [krackdetector](https://github.com/securingsam/krackdetector) - Detect and prevent KRACK attacks in your network
 * [KrackPlus](https://github.com/fwalloe/KrackPlus) - with KrackPlus users can scan their devices to determine whether they are vulnerable to key reinstallation attacks, or attack those devices
+* [nzyme](https://github.com/lennartkoopmann/nzyme) - Nzyme collects 802.11 management frames directly from the air and sends them to a Graylog (Open Source log management) setup for WiFi IDS, monitoring, and incident response. It only needs a JVM and a WiFi adapter that supports monitor mode. 
 * [Openwips-ng](https://github.com/aircrack-ng/OpenWIPS-ng) - Open source and modular Wireless IPS (Intrusion Prevention System)
 * [PiDense](https://github.com/WiPi-Hunter/PiDense) - Monitor illegal wireless network activities. (Fake Access Points)
 * [PiFinger](https://github.com/WiPi-Hunter/PiFinger) - Searches for wifi-pineapple traces and calculate wireless network security score
@@ -359,6 +409,7 @@ TOC created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 * [RogueDetection](https://github.com/baggybin/RogueDetection/) - Rogue Access Point Detection and WIDS
 * [waidps](https://github.com/SYWorks/waidps/) - Wireless Auditing, Intrusion Detection & Prevention System
 * [Wave](https://github.com/hkparker/Wave/) - 802.11 IDS, visualizer, and analytics platform for the web
+* [Wids-wips](https://github.com/pbalogh-sa/wids-wips) - Wireless intrusion detection and prevention system written in C and using kismet server as backend 
 * [Wifi Miner Detector](https://github.com/360PegasusTeam/WiFi-Miner-Detector) - Detecting malicious WiFi with mining cryptocurrency
 * [Wireless-forensics-framework](https://github.com/nipunjaswal/Wireless-forensics-framework/) - Automated Wireless Penetration Testing and Carrying out Wireless Forensics in Python
 * [Wireless-ids](https://github.com/SYWorks/wireless-ids/) - Ability to detect suspicious activity such as (WEP/WPA/WPS) attack by sniffing the air for wireless packets
@@ -368,6 +419,7 @@ TOC created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 * [80211p_raw](https://github.com/allanmatthew/80211p_raw/) - Raw socket utilities for 802.11p transmission
 * [80211_raw](https://github.com/MinimumLaw/80211_raw/) - Sender and receiver for WiFi (IEEE802.11) network with raw sockets 
 * [banjax](https://github.com/0x90/banjax/) - Library for low-level programming of IEEE 802.11 wireless network interfaces on the GNU/Linux operating system
+* [dot11anonymizer](https://github.com/adriangranados/dot11anonymizer) - Anonymizes 802.11 Layer 2 information found in capture files (BSSID, SSID, AP name, etc.) 
 * [dot11er](https://github.com/timow/dot11er/) - Some tools for playing with IEEE802.11
 * [Frame-utils.js](https://github.com/rhodey/frame-utils.js/) - A collection of utilities for processing streams of 80211 frames and radiotap headers.
 * [Gopacket-80211](https://github.com/dutchcoders/gopacket-80211/) - Extra gopacket layers for Radiotap and 802.11 (has been integrated in Gopacket) 
@@ -433,7 +485,6 @@ TOC created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 * [FWAP](https://github.com/szehl/FWAP/) - Minimal, very lightweight access point implementation
 * [hostapd](https://github.com/nims11/hostapd.py/) - Python script to make using and configuring hostapd easier 
 * [hostapd](https://w1.fi/hostapd/) - User space daemon for access point and authentication servers
-* [Hostapd-mana](https://github.com/adde88/hostapd-mana/) - Hostapd-mana for the 6.th gen. Wifi Pineapple, and OpenWRT
 * [hostapd-mana-openwrt](https://github.com/adde88/hostapd-mana-openwrt/) - Hostapd-mana - build-files, and installation-files for OpenWRT
 * [Hostapd-with-WebID](https://github.com/yunus/Hostapd-with-WebID/) - WebID integrated hostapd
 * [Hostapd-wpe-openwrt](https://github.com/TarlogicSecurity/hostapd-wpe-openwrt/) - Hostapd-wpe (Wireless Pwnage Edition) packages for OpenWRT Barrier Breaker 14.07 
@@ -451,6 +502,7 @@ TOC created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 * [RT73-USB-Wireless-](https://github.com/Marchrius/RT73-USB-Wireless-/) - Patched version of RT73USBWireless for Yosemite
 * [RTL8188-hostapd](https://github.com/jenssegers/RTL8188-hostapd/) - Hostapd for Realtek RTL8188
 * [Wifi-ap](https://github.com/foosel/wifi-ap/) - Library wrapper around hostapd and dnsmasq and their respective configuration files that allows for programmatically creating access points in Debian-based Linux environments
+* [Wifi-configurator](https://github.com/ConnectBox/wifi-configurator) - Utility for command line configuration of hostapd
 * [Wifi-frequency-hacker](https://github.com/singe/wifi-frequency-hacker/) - A modified frequency regulatory domain configuration that doesn't limit you. 
 * [Wifi-pentesting](https://github.com/baldwmic/wifi-pentesting/) - Wifi Penetration Testing of Home Network
 * [Wifi-txpower-unlocker](https://github.com/Manouchehri/wifi-txpower-unlocker) - A bash script that generates a modified regulatory.bin to unlock the maximum WiFi TX power (on 2.4 Ghz) of the region BO
@@ -495,6 +547,7 @@ TOC created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 * [Madwifi-hopping](https://github.com/paulpatras/madwifi-hopping/) - Modified version of the Madwifi WLAN driver, that employs power-hopping for packet transmission
 * [make-a-new-mac80211-to-wirelessAP](https://github.com/fhector/make-a-new-mac80211-to-wirelessAP/) - 
 * [netxml2kml](http://www.salecker.org/software/netxml2kml.html/) - Converts netxml files from Kismet Newcore into KML or KMZ files for Google Earth
+* [openwifi](https://github.com/open-sdr/openwifi) - open-source IEEE802.11/Wi-Fi baseband chip/FPGA design 
 * [Osx-wificleaner](https://github.com/mubix/osx-wificleaner/) - Cleans out open wireless connections from OSX machine 
 * [Osx-wifi-scan](https://github.com/kornysietsma/osx-wifi-scan/) - Hacky wifi signal scanner for osx 
 * [P4wnP1](https://github.com/mame82/P4wnP1_WiFi_covert_channel_client) - WiFi covert channel - Client agent (experimental Proof of Concept)
@@ -527,8 +580,10 @@ TOC created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 * [Wifi-dump-analysis](https://github.com/abnarain/wifi-dump-analysis/) - Processing wireless traces from binary files written and read in custom format.
 * [wifi_dump_parser-v3](https://github.com/abnarain/wifi_dump_parser-v3/) - Is the modified parser for the new data set collected using Wifi-dump
 * [wifi_dump-tmpfs](https://github.com/abnarain/wifi_dump-tmpfs/) - Dumps wifi data 
+* [Wifiexplorer-sensor](https://github.com/adriangranados/wifiexplorer-sensor) - WiFi Explorer Pro allows you to connect to a remote platform (e.g. Raspberry Pi) and perform a passive Wi-Fi scan using a capable Wi-Fi adapter. When a remote sensor is used, the scan results are sent back to WiFi Explorer Pro for its visualization.
 * [wifihisicipy](https://github.com/saljam/wifihisicipy/) -  Temporarily runs a wifi hotspot and a 'captive portal' to let you choose a permanent wireless network to connect to.
 * [wifi](https://github.com/rockymeza/wifi/) - [unmaintained] WiFi tools for linux http://pypi.python.org/pypi/wifi
+* [Wifi-mac-tracking](https://github.com/rpp0/wifi-mac-tracking) - "Code and datasets for the paper entitled ""Non-cooperative 802.11 MAC layer fingerprinting and tracking of mobile devices"". "
 * [wifirxpower](https://github.com/cnlohr/wifirxpower/) - Linux-based WiFi RX Power Grapher
 * [wifiScanMap](https://github.com/mehdilauters/wifiScanMap/) - An other wifi mapping tool
 * [WiFi-scheduling](https://github.com/UtkMSNL/WiFi-scheduling/) - This project evaluates the efficiency and overhead of wireless network scheduling
